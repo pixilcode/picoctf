@@ -1,5 +1,0 @@
-#!/bin/bash
-
-apt-cyg install python
-apt-cyg install nasm
-
